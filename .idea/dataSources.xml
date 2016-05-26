@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2966630332">
+    <data-source source="LOCAL" name="VideosAulas dev" uuid="6b0559aa-1226-408b-9190-2221e76a2df9">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/mascara</jdbc-url>
+      <user-name>mascara</user-name>
+      <user-password>dfc7dfcbdfd9dfc9dfcbdfd8dfcb</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
